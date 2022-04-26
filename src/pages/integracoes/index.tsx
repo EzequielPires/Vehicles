@@ -167,6 +167,7 @@ export default function Integracoes() {
                             )}
                         />
                     </Modal.Footer>
+                    
                 </Modal>
             </div>
         </div>
